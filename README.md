@@ -7,4 +7,6 @@ that would engage in a healthcare-related dialogue with users.
 - OpenAI - a Swift client for the OpenAI API
 - AVFoundation - for creating a voice response
 # User Interface:
-<img width="143" alt="image" src="https://github.com/ZeinMukhanov/aileen/assets/96255821/2793eebb-d824-447c-b8aa-449f6f77552e">
+
+<img width="300" alt="image" src="https://github.com/ZeinMukhanov/aileen/assets/96255821/2793eebb-d824-447c-b8aa-449f6f77552e">
+
