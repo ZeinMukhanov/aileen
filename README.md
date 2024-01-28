@@ -1,5 +1,6 @@
 # AI.leen - Project Rationale
-AI.leen is a mobile application with an embedded medical voice assistant, that would engage in a healthcare-related dialogue with users.
+AI.leen is a mobile application with an embedded medical voice assistant,
+that would engage in a healthcare-related dialogue with users.
 # Libraries used in the application:
 UIKit - interface library (UI components)
 SpeechRecognizerButton - button with integrated speech recognition
