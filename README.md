@@ -7,7 +7,6 @@ AI.leen is a mobile application designed to transform the way users interact wit
 - User-Friendly Interface: Built with UIKit, the app features an intuitive interface with UI components designed for easy navigation and interaction.
 - Medical Assistance: Engage in natural and intuitive dialogues with the medical assistant, allowing users to ask questions, seek medical advice, and receive personalized recommendations.
 
-
 ## Technologies used:
 - [Swift](https://github.com/apple/swift): Primary programming language for iOS app development, ensuring performance and compatibility.
 - [OpenAI API](https://github.com/MacPaw/OpenAI/): Integrated for natural language processing and AI-driven interactions.
